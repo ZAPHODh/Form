@@ -1,8 +1,8 @@
 import './App.css';
-
+import FormFunction from './Informed'
 function App() {
   return (
-    <div>oi</div>
+    <FormFunction></FormFunction>
   );
 }
 
